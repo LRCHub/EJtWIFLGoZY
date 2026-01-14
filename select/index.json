@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Fly Away (album version)",
+  "base_artist": "Asami Izawa",
+  "createdAt": "2026-01-14T07:56:20.528068Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fly Away (Album Version Explicit)",
+      "artist": "Nelly",
+      "has_synced": true,
+      "path": "select/01_Fly_Away_(Album_Version_Explicit)_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fly Away (Album Version)",
+      "artist": "The Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/02_Fly_Away_(Album_Version)_The_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fly Away (Album Version)",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/03_Fly_Away_(Album_Version)_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fly Away (Album Version)",
+      "artist": "Indigo Girls",
+      "has_synced": true,
+      "path": "select/04_Fly_Away_(Album_Version)_Indigo_Girls.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fly Away (Album Version)",
+      "artist": "Rebbie Jackson",
+      "has_synced": true,
+      "path": "select/05_Fly_Away_(Album_Version)_Rebbie_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fly Away (Album Version)",
+      "artist": "Guy",
+      "has_synced": false,
+      "path": "select/06_Fly_Away_(Album_Version)_Guy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fly Away (Album Version)",
+      "artist": "Superman Is Dead",
+      "has_synced": true,
+      "path": "select/07_Fly_Away_(Album_Version)_Superman_Is_Dead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fly Away (Album Version)",
+      "artist": "Sugarland",
+      "has_synced": false,
+      "path": "select/08_Fly_Away_(Album_Version)_Sugarland.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fly Away (Album Version)",
+      "artist": "Saint Loco",
+      "has_synced": true,
+      "path": "select/09_Fly_Away_(Album_Version)_Saint_Loco.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fly Away (album version)",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/10_Fly_Away_(album_version)_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fly Away (album version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/11_Fly_Away_(album_version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "When Angels Fly Away (Album Version)",
+      "artist": "Cold",
+      "has_synced": true,
+      "path": "select/12_When_Angels_Fly_Away_(Album_Version)_Cold.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fly Away [Album Version]",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/13_Fly_Away_[Album_Version]_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fly Away (Album Version)",
+      "artist": "Daniel Powter",
+      "has_synced": true,
+      "path": "select/14_Fly_Away_(Album_Version)_Daniel_Powter.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lenny Kravitz / Fly Away (album version)",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/15_Lenny_Kravitz___Fly_Away_(album_version)_Various.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fly Away - Album Version",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/16_Fly_Away_-_Album_Version_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fly Away (Album Version Explicit)",
+      "artist": "Nelly",
+      "has_synced": false,
+      "path": "select/17_Fly_Away_(Album_Version_Explicit)_Nelly.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fly Away [Album Version]",
+      "artist": "伊沢 麻未",
+      "has_synced": false,
+      "path": "select/pl_01_Fly_Away_[Album_Version]_伊沢_麻未.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Fly Away [Album Version]",
+      "artist": "伊沢 麻未",
+      "has_synced": false,
+      "path": "select/pl_02_Fly_Away_[Album_Version]_伊沢_麻未.txt"
+    }
+  ]
+}
